@@ -34,10 +34,10 @@ YouTrack, Trello, Jira
 [Twitter](#) · [Facebook Profile](#) · [Facebook Page](#)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SHARIARZAMAN&theme=radical)
 
 ## 💰 Support Me
-[Buy me a coffee](https://www.buymeacoffee.com/yourusername)
+
 
 ---
 
