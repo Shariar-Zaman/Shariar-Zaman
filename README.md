@@ -1,7 +1,4 @@
 
-Sure, I'll add color-coded badge icons to the skills in your README file to make it more visually appealing and organized. Here's the updated version with badge icons for each category:
-
-```markdown
 # Hi, I'm @ShariarZaman 🌟
 
 **Software Engineer in Test & Certified Ethical Hacker**
