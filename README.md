@@ -1,12 +1,12 @@
 
 # Hi, I'm @ShariarZaman 🌟
 
-**Software Engineer in Test & Certified Ethical Hacker**
+**Software Engineer ** & Certified Ethical Hacker**
 
 - 🌱 I’m currently learning **It Was Secret**
 - 👯 I’m looking to collaborate on **It Was Also A Secret**
-- 🤝 I’m looking for help with **Software Testing**
-- 💬 Ask me about **Software Testing & Cyber Security**
+- 🤝 I’m looking for help with **Software ****
+- 💬 Ask me about **Software ** & Cyber Security**
 - ⚡ Fun fact: **Coding is a passion, not just a profession.**
 
 ## 🛠 Knowledge Base
@@ -18,15 +18,15 @@
 ![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-CC0000?style=flat&logo=owaspzap&logoColor=white)  
 ![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat&logo=nmap&logoColor=white)
 
-### 🤖 Automation Testing
+### 🤖 Automation **
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)  
 ![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat&logo=apache&logoColor=white)
 
-### 🌐 API Testing
+### 🌐 API **
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
 ![Newman](https://img.shields.io/badge/-Newman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-### 🎮 Usability Testing
+### 🎮 Usability **
 Usability Hub, Gatling  
 
 ### 📊 Management Tools
